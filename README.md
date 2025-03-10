@@ -1,9 +1,4 @@
----
-title: nogas-user-manual
-
----
-
-# Nogas Manuel D'Utilisation
+# Nogas manuel d'utilisation
 <div align="center">
     <p>Créer par Yves-Shaheem Shedid et Mathieu Gouveia Sousa</p>
   <img style="width: 300px; height: 200px;" src="https://hackmd.io/_uploads/B1NoHrLsJx.svg" />
@@ -124,7 +119,29 @@ Barre de navigation
 > Sert à naviguer dans le site, se déconnecter et désactiver/activer les notifications.
 
 ## Cas d'usages
-https://github.com/nogas-project/nogas-user-manual/blob/master/videos/about.mkv
+|![signup](https://github.com/user-attachments/assets/f623072f-44d2-40c6-a097-f003b6951530)|
+|:--:|
+| Créer un compte |
+
+|![about](https://github.com/user-attachments/assets/7ec3b880-cd51-4be1-9d38-3ddd0604883b)|
+|:--:|
+| Accèder about page |
+
+|![login](https://github.com/user-attachments/assets/f72e79ee-0e9c-4f92-8103-df539d4a2470)|
+|:--:|
+| Se connecter |
+
+|![modify_profile](https://github.com/user-attachments/assets/ec38034b-1a79-44ad-81a8-6e2ad3439197)|
+|:--:|
+| Modifier son profile |
+
+|![home](https://github.com/user-attachments/assets/7999f2ac-4763-4e50-96e1-4f9990b90438)|
+|:--:|
+| Accèder la page home |
+
+|![logout](https://github.com/user-attachments/assets/95dfcc69-d1b4-4c8f-b60d-eecd856633d6)|
+|:--:|
+| Se déconnecter |
 
 ## FAQ
 **Q: Je n'arrive pas à utiliser Swagger-docs**
