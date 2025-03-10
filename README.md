@@ -124,8 +124,7 @@ Barre de navigation
 > Sert à naviguer dans le site, se déconnecter et désactiver/activer les notifications.
 
 ## Cas d'usages
-
-
+https://github.com/nogas-project/nogas-user-manual/blob/master/videos/about.mkv
 
 ## FAQ
 **Q: Je n'arrive pas à utiliser Swagger-docs**
